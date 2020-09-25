@@ -1,0 +1,7 @@
+{
+  "version_": 4.02,
+  "files": [
+    "jei/itemBlacklist.cfg"
+  ],
+  "target": "config"
+}

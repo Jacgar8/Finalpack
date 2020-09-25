@@ -1,0 +1,9 @@
+Release 4.2
+
+-Updated ExpansionMod
+-Added AstralSorcery
+-Several config tweaks, should improve performance a bit
+-Added a few QOL mods
+-Finally fixed the Hello spam in the log file
+-Fixed DIM15
+-Buffed dragons

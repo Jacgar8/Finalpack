@@ -1,0 +1,9 @@
+{
+  "version_": 4.02,
+  "files": [
+    "jei_1.12.2-4.15.0.268.jar",
+    "jepb-1.12-1.2.1.jar",
+    "ThaumicJEI-1.12.2-1.6.0-27.jar"
+  ],
+  "target": "mods"
+}

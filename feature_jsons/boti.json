@@ -1,0 +1,8 @@
+{
+  "version_": 3.6,
+  "files": [
+    "TARDIS Mod.cfg",
+  ],
+  "target": "config",
+  "override": true
+}

@@ -1,0 +1,13 @@
+{
+  "version_": 3.0,
+  "files": [
+    "forgeautoshutdown-1.12.2-1.0.0.jar",
+    "mtqfix-1.12.2-1.1.0.jar",
+	"jei_1.12.2-4.15.0.268.jar",
+	"jepb-1.12-1.2.1.jar",
+	"ThaumicJEI-1.12.2-1.6.0-27.jar",
+	"Dynmap-3.0-beta-4-forge-1.12.2.jar",
+	"DynmapBlockScan-3.0-alpha-2-forge-1.12.2.jar"
+  ],
+  "target": "mods"
+}

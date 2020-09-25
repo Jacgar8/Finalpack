@@ -1,0 +1,9 @@
+{
+	"version_": 4.213,
+	"files": [
+		"mods/package.json",
+		"config/package.json",
+		"addonpacks/package.json",
+		"scripts/package.json"
+	]
+}

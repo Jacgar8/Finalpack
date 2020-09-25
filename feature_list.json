@@ -1,0 +1,27 @@
+{
+	"features": [
+		{ 
+			"name": "JEI", 
+			"packages": [
+				"feature_jsons/jei/jei.json",
+				"feature_jsons/jei/jei_config.json"
+			],
+			"default_": true
+		},
+		{ 
+			"name": "CTM", 
+			"packages": [
+				"feature_jsons/ctm/ctm_mod.json",
+				"feature_jsons/ctm/ctm_res.json"
+			],
+			"default_": false
+		},
+		{ 
+			"name": "BOTI", 
+			"packages": [
+				"feature_jsons/boti.json"
+			],
+			"default_": false
+		}
+	]
+}
