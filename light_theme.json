@@ -1,0 +1,13 @@
+{
+  "updateAvailable": "207, 75, 58",
+  "updateLatest": "207, 75, 58",
+  "updateTextAvailable": "Black",
+  "updateTextLatest": "Black",
+  "textColor": "Black",
+  "exitButton": "White",
+  "backgroundMain": "201, 201, 201",
+  "backgroundAccent": "207, 75, 58",
+  "backgroundAccent2": "242, 242, 242",
+  "progressBar": "207, 75, 58",
+  "name": "Light Theme"
+}
